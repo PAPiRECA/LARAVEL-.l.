@@ -143,6 +143,8 @@ TXT;
         $texto = str_replace('Transaccioacutén', 'Transacción', $texto);
         $texto = str_replace('Transaccioacute;n', 'Transacción', $texto);
         $texto = str_replace('IdTransaccion', 'ID Transacción', $texto);
+        $texto = str_replace('Identificador de transacción', 'ID Transacción', $texto);
+        $texto = str_replace('Identificador transacción', 'ID Transacción', $texto);
         $texto = str_replace('ldTransaccion', 'ID Transacción', $texto);
         $texto = str_replace('Id TTransaccion', 'ID Transacción', $texto);
         $texto = str_replace('ATM Transacción ID', 'ATM Transacción ID', $texto);
